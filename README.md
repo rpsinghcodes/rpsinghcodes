@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Pratap Singh</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">Highly Skilled and motivated Full-Stack Developer proficient in React, Node.js, and Express.js. Proven ability to build and maintain high-quality applications, including RESTful APIs. Strong problem-solver, passionate about optimizing performance and delivering exceptional user experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rpsinghcodes&label=Profile%20views&color=0e75b6&style=flat" alt="rpsinghcodes" /> </p>
 
