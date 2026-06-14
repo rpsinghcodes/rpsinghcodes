@@ -19,7 +19,7 @@ Focused on building scalable APIs, optimizing performance, and delivering solid 
 
 ### 👨‍💻 About Me
 
-* 💬 Ask me about **Node.js, Express.js, MongoDB**
+* 💬 Ask me about **Node.js, Express.js, MongoDB, Postgres**
 * 📫 Reach me at **[rahulprataps386@gmail.com](mailto:rahulprataps386@gmail.com)**
 
 ---
